@@ -1,0 +1,10 @@
+/Users/zachwilke/Desktop/zachdb/target/debug/deps/libtantivy_query_grammar-e5b390777687cce5.rmeta: /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/lib.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/occur.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/query_grammar.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/user_input_ast.rs
+
+/Users/zachwilke/Desktop/zachdb/target/debug/deps/libtantivy_query_grammar-e5b390777687cce5.rlib: /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/lib.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/occur.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/query_grammar.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/user_input_ast.rs
+
+/Users/zachwilke/Desktop/zachdb/target/debug/deps/tantivy_query_grammar-e5b390777687cce5.d: /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/lib.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/occur.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/query_grammar.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/user_input_ast.rs
+
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/lib.rs:
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/occur.rs:
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/query_grammar.rs:
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-query-grammar-0.19.0/src/user_input_ast.rs:

@@ -21,7 +21,7 @@ A lightweight, high-performance, non-relational database built in Rust.
 
 ```bash
 # Clone the repository
-git clone https://github.com/zachwilke/zachdb.git
+git clone https://github.com/yourusername/zachdb.git
 cd zachdb
 
 # Build the project

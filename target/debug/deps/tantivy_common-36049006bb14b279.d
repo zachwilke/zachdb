@@ -1,0 +1,11 @@
+/Users/zachwilke/Desktop/zachdb/target/debug/deps/libtantivy_common-36049006bb14b279.rmeta: /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/lib.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/bitset.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/serialize.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/vint.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/writer.rs
+
+/Users/zachwilke/Desktop/zachdb/target/debug/deps/libtantivy_common-36049006bb14b279.rlib: /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/lib.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/bitset.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/serialize.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/vint.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/writer.rs
+
+/Users/zachwilke/Desktop/zachdb/target/debug/deps/tantivy_common-36049006bb14b279.d: /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/lib.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/bitset.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/serialize.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/vint.rs /Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/writer.rs
+
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/lib.rs:
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/bitset.rs:
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/serialize.rs:
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/vint.rs:
+/Users/zachwilke/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tantivy-common-0.4.0/src/writer.rs:
